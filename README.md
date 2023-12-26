@@ -2,12 +2,11 @@
 
 ## About Me
 - 🔭 I’m currently working on building a better cyberspace world.
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [Project or Topic]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
+- 🌱 I’m currently learning Python,Hacking,AI,Crypto.
+- 🤔 I’m looking for help with https://github.com/Adwaithsheety/Cipherops
+- 💬 Ask me about Hacking,OSINT,DARKINT,Crypto
+- 📫 How to reach me: cipherops01@gmail.com
+- 😄 Pronouns: Ethical Hacker
 - ⚡ Fun fact: [Interesting Fact About You]
 
 ## Connect with Me
